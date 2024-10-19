@@ -1,7 +1,7 @@
 package calculator;
 import java.util.Scanner;
 
-public class clculator1 {
+class clculator1 {
 	public static void main(String[] args) {
 
 		char operator;
